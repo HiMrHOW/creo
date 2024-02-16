@@ -1,4 +1,4 @@
-# creo
+# CREO
 Creativity Renaissance in Education and Organizations
 
 Unite Global Innovators to Co-Create & Explore the Boundary of Creativity
