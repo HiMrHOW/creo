@@ -3,7 +3,6 @@ Creativity Renaissance in Education and Organizations
 
 Unite Global Innovators to Co-Create & Explore the Boundary of Creativity
 
-About CREO
 Came out of the origin of "Creativity" in Latino language, CREO, Creativity Renaissance in Education & Organizations is founded in 2020 by a group of people around the world from high-tech industries, academia and schools. We're focusing on bridging creativity, humanity, technology and education.
 The AI Creativity Project is our first initiative. In this project, we aim to integrate global resources to build the systems of methods, tools and courses to help humans co-live and co-create with AI by playing to each other's strengths to achieve more. Welcome to join CREO, initiating or participating in creativity-exploration projects to make a better world.
 
