@@ -9,4 +9,4 @@ The AI Creativity Project is our first initiative. In this project, we aim to in
 CREO社区由一群来自全球的科技界、学术界、教育界的人士创立于2020年，致力于探索创造力、人文、技术以及教育的融合。CREO的名字来源于拉丁文“创造”。
 “AI创造力”是我们的首个探索项目，旨在整合全球资源，构建方法、工具和课程的体系，帮助人类与AI各展所长、共生共创。欢迎加入CREO社区，发起或参与各种方向的创造力探索项目，让世界变得更美好。
 
-info@wecreo.org
+wecreoorg@gmail.com
